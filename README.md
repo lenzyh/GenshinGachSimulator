@@ -17,3 +17,19 @@ Based on the rule stated, to calculate the guaranteed 5-star character with a pi
 ### Version 2: Capturing Radiance
 ![Screenshot](images/v2.PNG)
 
+And below will be one of the simulated result of these 2 version of simulators after 1000 pulls
+![Screenshot](images/table.PNG)
+Version 1: 53.70% banner 5-star rate
+Version 2: 54.50% banner 5-star rate
+
+The corresponding percentage are still very similar 
+
+The mechanism of the overall flow:
+![Screenshot](images/flow.png)
+
+## Conclusion
+In this analysis of Genshin Impact's Wish system, particularly the new "Capturing Radiance" feature introduced in Version 5.0, we explored the mechanics behind gacha pulls and the associated probabilities of acquiring rare items. Our simulations of two distinct versions demonstrated that even with varying probabilities, the resulting banner 5-star rates remained remarkably similar, with Version 1 achieving a rate of 53.70% and Version 2 achieving 54.50%.
+
+This reinforces the idea that while adjustments to the system may offer nuanced changes in the mechanics, the fundamental nature of RNG in gacha systems means that outcomes can still converge around a similar expected probability. Players should remain mindful that despite increased numbers of pulls and enhancements to the system, the unpredictability of RNG ensures that outcomes can vary widely, and there are no guarantees of obtaining desired characters or items.
+
+In summary, the "Capturing Radiance" system retains the core principles of the gacha mechanism while providing new opportunities for players to engage with the game. Further exploration and analysis may yield deeper insights, but this simulation lays a solid foundation for understanding how these systems operate within the context of Genshin Impact.
