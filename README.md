@@ -20,6 +20,7 @@ Based on the rule stated, to calculate the guaranteed 5-star character with a pi
 And below will be one of the simulated result of these 2 version of simulators after 1000 pulls
 ###
 ![Screenshot](images/table.PNG)
+###
 Version 1: 53.70% banner 5-star rate
 Version 2: 54.50% banner 5-star rate
 
